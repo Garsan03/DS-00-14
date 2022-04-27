@@ -5,5 +5,6 @@ public class HolaMundo {
         System.out.println("Que tal compañero");
         System.out.println("Yo bien. ¿Tú?");
         System.out.println("Mal la verdad");
+        System.out.println("jajaj xd");
     }
 }
